@@ -45,7 +45,7 @@ Welcome to my GitHub! I'm a passionate developer exploring the depths of **syste
 
 ## 💡 Skills & Interests
 
-**Languages:** C, Python, JavaScript, Go, Java, Rust  
+**Languages:** C, D, Go,  
 **Domains:** System Programming, Kernel Development, Embedded Systems, Web Development, AI Integration  
 **Focus Areas:** OS Development, Reverse Engineering, Compiler Design, Full-Stack Development
 
@@ -56,7 +56,7 @@ Welcome to my GitHub! I'm a passionate developer exploring the depths of **syste
 I'm always excited about:
 - 💬 **Open source contributions** — Jump into projects with me
 - 🔧 **System-level programming challenges** — Low-level development fascinates me
-- 🚀 **Innovative apps** — Building tools that solve real problems
+- 🚀 **Innovative Tools** — Building tools that solve real problems
 - 📚 **Learning together** — Mentorship and knowledge sharing
 
 **Reach out:** 📧 [ahamerashid.me@gmail.com](mailto:ahamerashid.me@gmail.com)

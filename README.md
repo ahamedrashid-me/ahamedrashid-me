@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Rashid (@ahamedrashid-me)
 
-Welcome to my GitHub! I'm a passionate developer exploring the depths of **system development**, **app development**, and everything in between. Currently, I'm learning by doing and experimenting with various cutting-edge technologies.
+Welcome to my GitHub! I'm a passionate developer exploring the depths of **system development**, **app development**, and everything in between. Currently, I'm learning by doing and experimenting w[...]
 
 ---
 
@@ -28,12 +28,14 @@ Welcome to my GitHub! I'm a passionate developer exploring the depths of **syste
 ### Featured Repositories
 | Project | Description |
 |---------|-------------|
-| **[Blood Donation App](https://github.com/ahamedrashid-me/blood_donation_app)** | A group project connecting donors with those in need |
-| **[LibreChat](https://github.com/ahamedrashid-me/LibreChat)** | Open-source chat interface with LLM support |
-| **[Ash Programming Language](https://github.com/ahamedrashid-me/ash)** | Exploring language design and implementation |
-| **[RasBox & RasCode](https://github.com/ahamedrashid-me/RasBox)** | Raspberry Pi system utilities and development tools |
-| **[Linux Kernel](https://github.com/ahamedrashid-me/linux)** | Contributing to and studying Linux kernel development |
-| **[Reverse Engineering](https://github.com/ahamedrashid-me/Reverse-Engineering)** | Security research and binary analysis |
+| **[RasCom](https://github.com/ahamedrashid-me/rascom)** | Communication utilities and networking tools for Raspberry Pi |
+| **[RasBox](https://github.com/ahamedrashid-me/RasBox)** | Raspberry Pi system utilities and development tools |
+| **[Box-Build](https://github.com/ahamedrashid-me/Box-Build)** | Build scripts and tooling for embedded systems |
+| **[pickpac](https://github.com/ahamedrashid-me/pickpac)** | Package management and distribution utilities |
+| **[atui](https://github.com/ahamedrashid-me/atui)** | Terminal UI components and tools |
+| **[devkit-plan](https://github.com/ahamedrashid-me/devkit-plan)** | Planning, roadmaps, and docs for the DevKit project |
+| **[TBA](https://github.com/ahamedrashid-me/TBA)** | Project planned — details coming soon |
+| **[TBA](https://github.com/ahamedrashid-me/TBA)** | Placeholder for another upcoming project |
 
 ### Other Interests
 - **AI/ML Tools** — AnythingLLM, LibreChat, FlashAI
@@ -59,13 +61,13 @@ I'm always excited about:
 - 🚀 **Innovative Tools** — Building tools that solve real problems
 - 📚 **Learning together** — Mentorship and knowledge sharing
 
-**Reach out:** 📧 [ahamerashid.me@gmail.com](mailto:ahamerashid.me@gmail.com)
+**Reach out:** 📧 [ahamerashid.me@gmail.com](mailto:ahamedrashid.me@gmail.com)
 
 ---
 
 ## 🎓 My Journey
 
-I started as a curious developer exploring basic app development, but over time I've developed a deep fascination with **system-level programming**. From kernel internals to language design, from reverse engineering to building practical tools — I love understanding *how things work* at every layer.
+I started as a curious developer exploring basic app development, but over time I've developed a deep fascination with **system-level programming**. From kernel internals to language design, from [...]
 
 Every project I take on teaches me something new. Some might seem chaotic (and yes, I'll admit I'm a bit of a noob sometimes! 😄), but each one is a stepping stone in my growth as a developer.
 

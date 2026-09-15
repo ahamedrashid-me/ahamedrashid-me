@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Anamed Rashid (@ahamedrashid-me)
+# 👋 Hey, I'm Rashid (@ahamedrashid-me)
 
 Welcome to my GitHub! I'm a passionate developer exploring the depths of **system development**, **app development**, and everything in between. Currently, I'm learning by doing and experimenting with various cutting-edge technologies.
 
@@ -12,12 +12,12 @@ Welcome to my GitHub! I'm a passionate developer exploring the depths of **syste
 - **Embedded Systems** — Working with Raspberry Pi and ARM-based projects
 - **Language Design** — Contributing to compiler projects (ANTLR4) and language interpreters
 
-### 🚀 Application Development
+### 🚀 Application Development ( only uni projects)
 - **Web Applications** — Full-stack development with modern frameworks
 - **AI & LLM Integration** — Working with projects like **LibreChat**, **AnythingLLM**, and AI-powered tools
 - **Utility Applications** — Building practical tools for productivity and system management
 
-### 🔬 Active Collaborative Projects
+### 🔬 Collaborative Projects (Inactive)
 - **🎮 Xbox Driver Project** — Collaborating with [@malik-mal](https://github.com/malik-mal) on driver development
 - **🩸 Blood Donation App** — Part of [@softwave-team](https://github.com/softwave-team) building a life-saving donation platform
 
